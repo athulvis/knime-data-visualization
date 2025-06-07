@@ -1,4 +1,7 @@
-# Knime Data Visualization
+ # [Download all files](https://github.com/athulvis/knime-data-visualization/archive/refs/tags/publish.zip)
+
+# Knime Data Visualization - Course Materials
+
 Course slides and knime workflow files created for Empowering Research and Training with AI and Data Tools conducted by ICFOSS and DAKF from June 6 - 8, 2025.
 
 
